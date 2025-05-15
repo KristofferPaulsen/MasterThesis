@@ -1,0 +1,222 @@
+conversation_id,text,label
+1,I dont know where I am. I think I took a wrong turn.,3
+1,Stay calm. Where are you now?,3
+1,I have no idea. Its dark and my phone is at 5%.,4
+1,Okay take a deep breath. Can you see any landmarks?,4
+1,Theres a gas station across the street.,1
+1,Wait—I see a sign. I think I recognize this road!,1
+1,Great! Keep walking toward something familiar.,1
+1,I think I see my apartment building now.,1
+1,I made it home. Thank you for staying on the phone with me.,2
+1,Of course. Id never leave you alone in a situation like that.,2
+1,I was really freaking out for a second.,2
+1,Thats understandable. Im just glad youre safe.,2
+2,I can not believe he talked behind my back.,3
+2,Wait what happened?,3
+2,He told everyone my secret after I trusted him.,3
+2,Wow thats really messed up. Did you confront him?,3
+2,No I dont even want to talk to him right now.,3
+2,That makes sense but maybe he didnt realize how much it hurt you.,3
+2,Still a real friend wouldnt do that.,0
+2,Thats true. But if he apologizes would you consider forgiving him?,0
+2,I dont know maybe if he is really sorry.,0
+2,Just remember holding onto anger only hurts you in the end.,3
+2,You always know what to say.,2
+2,That is what friends are for.,2
+3,I don’t think I can do this presentation tomorrow.,4
+3,Why not? You’ve been preparing for weeks.,4
+3,I just know I will mess up and embarrass myself.,4
+3,Hey I believe in you. You’ve worked so hard for this.,2
+3,But what if I forget everything the moment I step up there?,4
+3,Then I’ll be in the audience cheering for you the whole time.,2
+3,That actually makes me feel a little better.,2
+3,See? You’ve got this. Trust yourself.,2
+3,You know what? I think I can do this after all.,2
+3,Yes! That’s the confidence I was waiting for.,2
+3,Thanks for always having my back.,2
+3,Always.,2
+4,I almost got hit by a car today.,4
+4,What?! Are you okay?",4
+4,Yeah but it was terrifying. It came out of nowhere.,4
+4,That’s so dangerous. People need to pay more attention when driving.,4
+4,I know right? It’s like they didn’t even see me.,4
+4,Some people just don’t care about pedestrians.,4 
+4,It makes me so mad. I could’ve been seriously hurt.,3
+4,I don’t even want to think about what could have happened.,3
+4,It just reminds me how fragile life is.,4 
+4,Yeah… that’s a scary thought.,4
+4,I just need a moment to process everything.,4
+4,Take your time. I’m here if you need to talk.,1
+5,Guess what? I just got accepted into my dream school!,1
+5,Are you serious?! That’s amazing!,1
+5,Yeah I’m still in shock. I can’t believe it!",5
+5,You totally deserve it. I knew you could do it.,1
+5,Thanks I was so nervous when I submitted my application.,1
+5,You worked hard for this and I’m so proud of you.",1
+5,That means a lot coming from you.",1
+5,Of course. I know how much this means to you.",1
+5,Oh my god wait—They’re offering me a scholarship too!",5
+5,WHAT?! That’s incredible!",5
+5,I’m actually shaking right now.,1
+5,This is your moment. Enjoy it!",1
+6,I can’t believe you ignored my message yesterday!,3
+6,Wait what? I didn’t ignore it.,5
+6,You left me on read for hours!,3
+6,I wasn’t ignoring you I just got really busy.,3
+6,I just felt like you didn’t care.,0
+6,I would never do that on purpose. You’re my best friend.,0
+6,I guess I overreacted,0
+6,It’s okay. Let’s talk things through.,2
+7,I just found out my coworker took credit for my idea!,3
+7,What?! That’s so wrong!,3
+7,Yeah and now our manager thinks it was all his work.,3
+7,I’d be furious. Are you going to talk to them?",3
+7,I don’t know. I feel so defeated.,0
+7,You deserve the recognition. Don’t let them take that from you.,1
+7,Actually… our manager just called me in. He found out the truth!",5
+7,Really? That’s amazing!",5
+8,Wait… Is that you?!,5
+8,Oh my god! I can’t believe it!",5
+8,It’s been YEARS!",5
+8,I know! How have you been?",1
+8,So much has changed but seeing you brings back so many memories.",1
+8,Same here. I’ve really missed you.",1
+8,We have so much to catch up on!",1
+8,Let’s not lose touch again okay?",2
+9,I don’t think I can go on this roller coaster.,4
+9,Come on it’ll be fun!",1
+9,What if something goes wrong?",4
+9,I promise you’ll be safe. I’ll be right next to you.",1
+9,I don’t know…",4
+9,I won’t force you but I think you’d love it.",2
+9,Alright let’s do it!",1
+9,That’s the spirit!",2
+10,I just got the keys to my new apartment!",1
+10,That’s so exciting!",1
+10,I can’t believe I finally have my own place.",1
+10,You worked hard for this. You deserve it!",1
+10,I feel so independent.",1
+10,And just think of all the memories you’ll make here.",1
+10,Oh my god I just found out my parents are surprising me with furniture!",5
+10,That’s incredible!",5
+11,I think someone is following me.",4
+11,Are you serious? Where are you?",4
+11,I don’t know but I feel really unsafe.",4
+11,Get somewhere public and call me right now.",4
+11,Okay… I made it to a cafe.",4
+11,Stay there. I’m coming to get you.",4
+11,Thank you so much.",1
+11,I’m just glad you’re okay.",1
+12,I didn’t get the job.",0
+12,Oh no I’m so sorry.",0
+12,I really thought I had a chance.",0
+12,Hey just because they didn’t pick you doesn’t mean you aren’t amazing.",2
+12,I still feel like I failed.",0
+12,No way. You’re talented and the right opportunity will come along.",2
+12,Thanks… I needed to hear that.",0
+12,Of course! And when you do get that dream job we’re celebrating!",2
+13,I don’t think we can be friends anymore.",0
+13,What? Why are you saying that?",5
+13,You’ve changed. It’s like you don’t even care anymore.",0
+13,That’s not true! I’ve just been dealing with a lot.",3
+13,Then why didn’t you tell me? I had to hear from someone else that you were struggling.",0
+13,I didn’t want to burden you with my problems.",0
+13,That’s not how friendships work. I would’ve been there for you.",2
+13,I know… and I regret pushing you away.",0
+13,It hurt you know? I felt like I lost my best friend.",0
+13,You didn’t lose me. I just needed time to figure things out.",0
+13,I’m still mad but… I do miss you.",3
+13,I miss you too. Can we start over?",0
+13,I think we can. But next time just talk to me.",2
+13,Deal.",2
+14,can’t believe we finally did it! We made it through the hardest part of the project!",1
+14,I know it feels amazing to have it done! We really pulled it off!"1,
+14,I’m so proud of what we’ve accomplished. I feel like everything is going so well.,1
+14,Exactly! It’s been so rewarding to see it all come together.,1
+14,But... what if the client doesn’t like it? What if all this hard work is for nothing?,4
+14,I’m starting to feel nervous too... What if we missed something important?,4
+14,I just don’t want to face the disappointment if it doesn’t work out. It’s too much pressure now.,4
+15,You won’t believe this—I just found out I’m going to be a parent!,5
+15,What?! That’s amazing! Congratulations!",5
+15,I never expected it but I’m so happy. I feel like everything is changing for the better.,5
+15,You must be over the moon right now!",5
+15,Actually I’m scared. I don’t feel ready and now I’m worried about all the responsibilities.,0
+15,I understand but you’ve got this. You’ll be a great parent.,0
+15,I wish I felt as confident as you do. I can’t stop thinking about everything I could mess up.,0
+16,I love you so much. You make everything in my life feel better.,2
+16,I love you too. You mean everything to me.,2
+16,I just don’t understand how I got so lucky to find someone like you.,2
+16,I feel the same way. We make such a great team.,2
+16,But why did you leave your clothes all over the floor again? We agreed you'd keep things tidy.,3
+16,I forgot okay? I didn’t mean to upset you.,3
+16,I’m just so frustrated. It feels like you never listen to the things that bother me!,3
+17,I can’t believe I’m about to speak in front of all these people. I’m so nervous!,4
+17,You’ve done this before. You’ve got this! It’s just like any other presentation.,4
+17,I hope so. My heart is racing. What if I mess up?,4
+17,Look at you! You’re confident and ready. Go show them how great you are!,1
+17,You’re right. Okay here I go!,1
+17,You nailed it! That was fantastic!,1
+17,I’m so glad it’s over. I feel like I can finally breathe... but now I feel exhausted.,0
+18,Wait what?! You got me tickets to that concert I’ve been dying to see?,5
+18,Yeah! I know you’ve been talking about it nonstop so I thought I’d surprise you.,5
+18,That’s amazing! But why didn’t you tell me sooner? I could have cleared my schedule!,3
+18,I wanted to keep it a secret for as long as possible. It’s a surprise!,3
+18,Okay fine I’m sorry. I’m just so excited I wanted to know right away!,2
+18,I understand! I’m so happy you’re excited. It’s going to be so much fun!,2
+18,Thank you I really appreciate it. You know how much this means to me.,2
+19,I just found out that I didn’t get the promotion. I’m really disappointed.,0
+19,I’m so sorry to hear that. You worked so hard for it.,0
+19,It just feels like I’m always passed over no matter how much effort I put in.,3
+19,That’s not fair at all. You absolutely deserve better!,3
+19,I’m tired of feeling like this. Maybe it’s time to look for something new.,3
+19,Hey what if I told you that I spoke to someone at another company? They’re really interested in you!,1
+19,No way! Really? That’s incredible! I’m actually excited again!,1
+20,I can’t believe we’re going on vacation next week! I’m so excited!,1
+20,I know! It’s going to be the best trip ever. I can’t wait!,1
+20,But wait… What if something happens while we’re away? What if the house is broken into?,4
+20,I get that. But we’ve made sure everything is secure. It’ll be fine.,4
+20,I just don’t want anything bad to happen. I’d never forgive myself.,4
+20,I promise you nothing is going to ruin our trip. We’ll have an amazing time together.,2
+20,You’re right. We’re going to make so many wonderful memories. I’m really looking forward to it!,2
+21,Hey did you ever hear back from your boss about that promotion?,1
+21,Yeah… I got the email this morning.,1
+21,And...? Don’t keep me in suspense. What did it say?,1
+21,They gave it to Mark. Again.,1
+21,What?! Are you kidding me? That’s the third time!,1
+21,I know. I seriously don’t get it. I’ve led two major projects this quarter and he barely showed up to the last team meeting.,1
+21,That’s total garbage. You deserve better than that place.,1
+21,Yeah… it just hurts you know? You give so much of yourself and it’s like none of it matters.,1
+21,I’m so sorry Aiden. You work so hard. It’s not your fault their priorities are messed up.,1
+21,Thanks. It means a lot coming from you. Honestly I don’t know what I’d do without you sometimes.,1
+21,Hey don’t make me cry over here. You know I’ve got your back always.,1
+21,You’re the only part of today that hasn’t completely sucked.,1
+21,Want to blow off steam? Ice cream loud music screaming into a pillow? You name it.,1
+21,Honestly? That sounds amazing. Ice cream and yelling? Perfect therapy.,1
+21,Deal. But wait—before we go I have to tell you something.,1
+21,What now? Hopefully not more bad news?,1
+21,No! Good news for once. My short film—remember the one I submitted last month? It got accepted into the festival!,1
+21,No way! Lena that’s incredible! I’m so proud of you!,1
+21,Thanks! I honestly didn’t think I had a shot. I almost didn’t send it in.,1
+21,Are you kidding? You’re brilliant. I’ve seen your work—this is just the beginning.,1
+21,Thanks Aiden. And don’t worry… your beginning’s coming too. You’re too good to stay unrecognized forever.,1
+22,Hey have you heard from Noah today? He didn’t show up for class and hasn’t replied to any messages.,1
+22,No I haven’t. That’s weird. He never just disappears like that.,1
+22,Exactly. I called him twice—straight to voicemail. I’m starting to get kind of scared.,1
+22,Maybe his phone died? Or he’s just taking a mental health day? He’s been pretty stressed lately.,1
+22,Yeah... maybe. But it’s just not like him. He always at least sends a quick text.,1
+22,I’ll swing by his place after class just to be sure.,1
+22,You’d do that? Thank you. I don’t know why I’m this anxious but something just feels off.,1
+22,You care about him. That’s not a bad thing. Honestly I was worried too but didn’t want to say,1
+22,We’re such a mess huh?,1
+22,Maybe. But we’re a mess that looks out for each other.,1
+22,That means more than you know.,1
+22,Okay wait—he just texted. Said he had a migraine and slept through the day.,1
+22,Oh my god. I could cry.,1
+22,I was ready to break down his door.,1
+22,I love that we’re both this dramatic when we care.,1
+22,I’ll own it. Better dramatic than distant right?,1
+22,Exactly. I’m gonna bring him soup tomorrow. Want to come with?,1
+22,Absolutely. Drama team reporting for comfort duty.,1
+22,Maybe we should bake cookies too—he always smiles when we do that.,1
+22,Good idea. Let’s go full-on cozy squad.,1
+22,Perfect. He’s lucky to have us—and honestly I think we’re lucky to have each other too.,1
